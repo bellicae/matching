@@ -1,0 +1,22 @@
+{
+  "quote_responses": [
+    {
+      "request_id": "q001",
+      "quoted_price": 120,
+      "estimated_time_days": 5,
+      "notes": "Helmet is available; gun is prop-only, no live ammo."
+    },
+    {
+      "request_id": "q002",
+      "quoted_price": 60,
+      "estimated_time_days": 3,
+      "notes": "Standard Link costume available; shield and sword included."
+    },
+    {
+      "request_id": "q003",
+      "quoted_price": 150,
+      "estimated_time_days": 7,
+      "notes": "Silver sword can be provided; additional potions will require extra $20."
+    }
+  ]
+}

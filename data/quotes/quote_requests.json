@@ -1,0 +1,25 @@
+{
+  "quote_requests": [
+    {
+      "request_id": "q001",
+      "player_id": "p001",
+      "host_id": "h001",
+      "character_name": "Master Chief",
+      "details": "Player wants full armor, helmet, and prop gun included."
+    },
+    {
+      "request_id": "q002",
+      "player_id": "p002",
+      "host_id": "h002",
+      "character_name": "Link",
+      "details": "Player wants standard outfit with shield and sword."
+    },
+    {
+      "request_id": "q003",
+      "player_id": "p003",
+      "host_id": "h001",
+      "character_name": "Geralt of Rivia",
+      "details": "Include silver sword and potions. Player requests base-rate cosplay."
+    }
+  ]
+}

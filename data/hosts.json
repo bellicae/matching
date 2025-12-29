@@ -1,0 +1,59 @@
+{
+  "hosts": [
+    {
+      "host_id": "h001",
+      "name": "Aria Stormrunner",
+      "race": "White",
+      "base_rate": 150,
+      "services": {
+        "DFK": 0,
+        "CBT": 0,
+        "A Level": 20,
+        "ATM": 50
+      },
+      "costumes_owned": {
+        "Elf Warrior": 0,
+        "Steampunk Engineer": 20
+      },
+      "accepts_custom_costumes": true,
+      "custom_costume_base_fee": 30
+    },
+
+    {
+      "host_id": "h002",
+      "name": "Dorian Emberveil",
+      "race": "Latin",
+      "base_rate": 180,
+      "services": {
+        "Fetish": 0,
+        "Foot Fetish": 0,
+        "Filming": 10,
+        "Swallow": 40
+      },
+      "costumes_owned": {
+        "Archmage": 0,
+        "Necromancer": 50
+      },
+      "accepts_custom_costumes": true,
+      "custom_costume_base_fee": 50
+    },
+
+    {
+      "host_id": "h003",
+      "name": "Kaela Ironstrike",
+      "race": "Black",
+      "base_rate": 120,
+      "services": {
+        "Cosplay": 0,
+        "COB": 0,
+        "DUO": 30
+      },
+      "costumes_owned": {
+        "Space Marine": 80,
+        "Knight": 0
+      },
+      "accepts_custom_costumes": false,
+      "custom_costume_base_fee": 0
+    }
+  ]
+}
